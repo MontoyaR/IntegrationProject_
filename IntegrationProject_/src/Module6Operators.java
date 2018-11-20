@@ -1,5 +1,9 @@
 
-public class module6Operators {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module6Operators {
 	public static void selection20() {
 		System.out.println();
 		System.out.println("Operators: \n");

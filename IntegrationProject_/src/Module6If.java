@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
-public class module6If {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module6If {
 	public static void selection16() {
 		Scanner scan = new Scanner(System.in);
 		System.out.println();

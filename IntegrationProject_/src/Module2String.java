@@ -1,5 +1,9 @@
 
-public class module2String {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module2String {
 	public static void selection4() {
         System.out.println("Data Type: [ String ]");
         

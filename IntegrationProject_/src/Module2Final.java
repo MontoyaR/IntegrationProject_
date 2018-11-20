@@ -1,5 +1,9 @@
 
-public class module2Final {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module2Final {
 	public static void selection7() {
         System.out.println("Final Example: \n");
 		

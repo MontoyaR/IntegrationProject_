@@ -1,5 +1,9 @@
 
-public class module2Double {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module2Double {
 	public static void selection3() {
         System.out.println("Data Type: [ double ]");
 		

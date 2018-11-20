@@ -1,5 +1,9 @@
 
-public class module3MethodThree {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module3MethodThree {
 	public static void selection11() {
 	    //The .toUpperCase string method returns the string in all upper case
 		System.out.println("String Method: [ .toUpperCase() ] \n ");

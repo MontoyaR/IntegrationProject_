@@ -1,5 +1,9 @@
 
-public class module6EqualsMethod {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module6EqualsMethod {
 	public static void selection19() {
 		System.out.println();
 		System.out.println("Equals Method: \n");

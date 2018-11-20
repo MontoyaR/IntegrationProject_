@@ -1,5 +1,9 @@
 
-public class module5MathClass {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module5MathClass {
 	public static void selection14() {
 		double sqroot = Math.sqrt(121.0);
 		System.out.println("Math Class: [ Math.sqrt() ] \n" );

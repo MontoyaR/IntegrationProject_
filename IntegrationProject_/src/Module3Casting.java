@@ -1,5 +1,9 @@
 
-public class module3Casting {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module3Casting {
 	public static void selection8() {        
         int num1 = 9;
         int num2 = 4;

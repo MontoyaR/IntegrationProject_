@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
-public class module6Switch {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module6Switch {
 	public static void selection17() {
 		Scanner scan = new Scanner(System.in);
 		System.out.println();

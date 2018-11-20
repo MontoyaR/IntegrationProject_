@@ -1,5 +1,9 @@
 
-public class module2Boolean {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module2Boolean {
 	public static void selection5() {
         System.out.println("Data Type: [ boolean ]"); 
         

@@ -1,5 +1,9 @@
 
-public class module6CompareString {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module6CompareString {
 	  public static void selection18() {  
 	        System.out.println();
 	        System.out.println("String Comparison: \n");

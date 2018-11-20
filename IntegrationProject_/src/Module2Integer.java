@@ -1,5 +1,9 @@
 
-public class module2Integer {
+/**
+ * @author ramontoya7474
+ *
+ */
+public class Module2Integer {
 	public static void selection2() {
         System.out.println("Data Type: [ int ]");
 		
