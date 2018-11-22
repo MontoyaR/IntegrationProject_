@@ -24,7 +24,6 @@ public class IntegrationProject {
     System.out.println("\t 10. Method Two");
     System.out.println("\t 11. Method Three");
     System.out.println("\t 12. Escape Sequence");
-
     System.out.println("\t 13. Random Generator");
     System.out.println("\t 14. Math class");
     System.out.println("\t 15. If/Else Statement");
@@ -33,6 +32,13 @@ public class IntegrationProject {
     System.out.println("\t 18. Compare String");
     System.out.println("\t 19. Equals Method");
     System.out.println("\t 20. Operators");
+    System.out.println("\t 21. While Loop");
+    System.out.println("\t 22. For Loop");
+    System.out.println("\t 23. Do While Loop");
+    System.out.println("\t 24. Loops[Breaks/Comments] ");
+    
+    
+    
     System.out.println("\t X. 1-Dimensional Array");
 
 
@@ -42,8 +48,6 @@ public class IntegrationProject {
     Scanner scan = new Scanner(System.in);
 
     selection = scan.nextInt();
-
-    scan.close();
 
     switch (selection) {
       case 1:
@@ -125,16 +129,33 @@ public class IntegrationProject {
       case 20:
         Module6Operators.selection20();
         break;
-
-//      case 21:
+        
+      case 21:
+    	Module7WhileLoop.selection21();
+    	break;
+    	
+      case 22:
+    	Module7ForLoop.selection22();
+    	break;
+    	
+      case 23:
+    	Module7DoWhileLoop.selection23();
+    	break;
+    
+      case 24:
+    	Module7BreakLoop.selection24();
+    	
+    	
+    	
+//      case X:
 //        Module10Array1D.selection21();
 //        break;
-
+       
       default:
         System.out.println("Invalid selection");
 
     }
-
+    scan.close();
   }
 
 }
