@@ -44,12 +44,17 @@ public class IntegrationProject {
 		System.out.println("\t 30. This");
 		System.out.println("\t 31. 1-Dimensional Array");
 		System.out.println("\t 32. Enhanced For Loop [ ArrayList ] ");
-		System.out.println("\t 33. Multi-Dimensioal Array");
+		System.out.println("\t 33. Multi-Dimensioal Array [ 2-Dimensional Array ]");
 
 		int selection;
 
 		Scanner scan = new Scanner(System.in);
-
+try {
+	
+}
+catch (ExceptionType ex) {
+	
+}
 		selection = scan.nextInt();
 
 		switch (selection) {
@@ -185,14 +190,7 @@ public class IntegrationProject {
 		case 33:
 			Module10MultiDimensionalArray.selection33();
 			break;
-
-			
-			
-			
-			
-			
-			
-			
+		
 		default:
 			System.out.println("Invalid selection");
 

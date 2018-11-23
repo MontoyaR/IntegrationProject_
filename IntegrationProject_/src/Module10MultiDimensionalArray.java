@@ -19,7 +19,7 @@ public class Module10MultiDimensionalArray {
 	    
 	    String[][] texts = new String[2][3];
 	    texts[0][1] = "This is row 0, column 1";
-	    texts[0][2] = "This is row 0, column 3";
+	    texts[0][2] = "This is row 0, column 2";
 	    
 	    System.out.println("\t Output: text[0][1]");
 	    System.out.println("\t " + texts[0][1] + "\n");
