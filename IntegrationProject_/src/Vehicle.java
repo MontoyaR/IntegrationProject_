@@ -1,4 +1,4 @@
 
 public class Vehicle {
-	int maxSpeed = 120;
+  int maxSpeed = 120;
 }
