@@ -1,9 +1,12 @@
 
-/**
+/** String Comparisons.
  * @author ramontoya7474
  *
  */
 public class Module6CompareString {
+  /** Different ways to compare String.
+   * 
+   */
   public static void selection18() {
     System.out.println();
     System.out.println("String Comparison: \n");

@@ -1,9 +1,12 @@
 
-/**
+/** Defines Operators.
  * @author ramontoya7474
  *
  */
 public class Module6Operators {
+  /** Class Operators.
+   * 
+   */
   public static void selection20() {
     System.out.println();
     System.out.println("Operators: \n");

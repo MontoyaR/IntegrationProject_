@@ -1,5 +1,11 @@
-
+/** Polymorphism Module.
+ * @author ramontoya7474
+ *
+ */
 public class Module9Polymorphism {
+  /** This shows an example of polymorphism and how it is used.
+   * 
+   */
   public static void selection28() {
     System.out.println("Polymorphism: ");
 

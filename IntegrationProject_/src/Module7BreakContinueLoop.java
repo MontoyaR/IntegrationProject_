@@ -1,5 +1,12 @@
 
+/** Using Breaks and Continue.
+ * @author ramontoya7474
+ *
+ */
 public class Module7BreakContinueLoop {
+  /** This class shows how a Break and continue is used in a for loop.
+   * 
+   */
   public static void selection24() {
 
     System.out.println("Break Loop: ");

@@ -1,5 +1,12 @@
 
+/** For Loop Statement.
+ * @author ramontoya7474
+ *
+ */
 public class Module7ForLoop {
+  /** This module contains an example of a For Loop.
+   * 
+   */
   public static void selection22() {
     System.out.println("For Loop: \n");
 

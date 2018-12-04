@@ -1,10 +1,13 @@
 import java.util.Scanner;
 
-/**
+/** IF statement.
  * @author ramontoya7474
  *
  */
 public class Module6If {
+  /** Class conataing and If statement.
+   * 
+   */
   public static void selection16() {
     Scanner scan = new Scanner(System.in);
     System.out.println();

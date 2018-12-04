@@ -1,6 +1,12 @@
-
+/** Overloading a method.
+ * @author ramontoya7474
+ *
+ */
 public class Module9Overloading {
 
+  /** This class shows an example of overloading a method.
+   * 
+   */
   public static void selection26() {
     System.out.println("Overloading Methods:");
 

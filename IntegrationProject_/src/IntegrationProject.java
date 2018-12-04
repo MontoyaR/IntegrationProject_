@@ -1,11 +1,16 @@
 import java.util.Scanner;
 
-/**
+/** This is my Integration Project that uses topics learned in COP2006.
+ * 
  * @author ramontoya7474
  *
  */
 public class IntegrationProject {
 
+  /** This contains the main code of the project.
+   * 
+   * @param args Begins program.
+   */
   public static void main(String[] args) {
 
     Module1Greetings.selection0();
@@ -151,7 +156,7 @@ public class IntegrationProject {
           break;
 
         case 25:
-          Module8OOP.selection25();
+          Module8OoP.selection25();
           break;
         case 26:
           Module9Overloading.selection26();
@@ -194,6 +199,7 @@ public class IntegrationProject {
     } catch (Exception e) {
       System.out.println("Invalid Input ");
       System.out.println("Exception is: " + e);
+      scan.close();
     }
   }
 }

@@ -1,10 +1,13 @@
 import java.util.Random;
 
-/**
+/** Random Generator.
  * @author ramontoya7474
  *
  */
 public class Module5RandomGenerator {
+  /** Random Generator code.
+   * 
+   */
   public static void selection13() {
     Random rndnum = new Random();
     System.out.println();

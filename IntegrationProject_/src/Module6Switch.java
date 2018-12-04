@@ -1,16 +1,20 @@
 import java.util.Scanner;
 
-/**
+/** Represents a switch statement.
  * @author ramontoya7474
  *
  */
 public class Module6Switch {
+  /** This class gives an example on switch statement.
+   * 
+   */
   public static void selection17() {
     Scanner scan = new Scanner(System.in);
     System.out.println();
     System.out.println("Switch Statement: ");
     System.out.println(
-        "\t Please enter a number from 1 to 7, the numbers represent the day of week beginning with Monday.");
+        "\t Please enter a number from 1 to 7, the "
+        + "numbers represent the day of week beginning with Monday.");
     int day = scan.nextInt();
     String dayString;
 

@@ -1,9 +1,12 @@
 
-/**
+/** Equals Methods. 
  * @author ramontoya7474
  *
  */
 public class Module6EqualsMethod {
+  /** Class with an equals method.
+   * 
+   */
   public static void selection19() {
     System.out.println();
     System.out.println("Equals Method: \n");

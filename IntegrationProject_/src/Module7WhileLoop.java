@@ -1,11 +1,14 @@
 import java.util.Scanner;
 
-/**
+/** This module contains a While Loop statement.
  * @author ramontoya7474
  *
  */
 
 public class Module7WhileLoop {
+  /** This class is an example of a While Loop.
+   * 
+   */
   public static void selection21() {
     Scanner scan = new Scanner(System.in);
 

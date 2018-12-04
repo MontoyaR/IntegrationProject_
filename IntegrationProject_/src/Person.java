@@ -3,6 +3,11 @@ public class Person {
   private String name;
 
   // This is a constructor with parameters
+  
+  /** Part of the OOP module.
+   * @param name Name variable.
+   * @param age Age variable.
+   */
   public Person(String name, int age) {
     super();
     this.name = name;

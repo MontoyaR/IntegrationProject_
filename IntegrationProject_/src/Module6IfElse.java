@@ -1,10 +1,13 @@
 import java.util.Scanner;
 
-/**
+/** If Else Statement.
  * @author ramontoya7474
  *
  */
 public class Module6IfElse {
+  /** Class contains an If Else statement.
+   * 
+   */
   public static void selection15() {
     Scanner scan = new Scanner(System.in);
 

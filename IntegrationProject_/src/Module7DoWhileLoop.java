@@ -1,5 +1,12 @@
 
+/** Do While Loop statement.
+ * @author ramontoya7474
+ *
+ */
 public class Module7DoWhileLoop {
+  /** This class gives an example of a Do While Loop.
+   * 
+   */
   public static void selection23() {
 
     System.out.println("Do-While Loop: \n ");

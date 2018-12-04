@@ -8,13 +8,18 @@ public class Module2List {
     System.out.println("This is a list and description of Java built-in data types: \n ");
 
     System.out.println(
-        "\t byte: The byte data type is an 8-bit signed two's complement integer. It has a minimum value of -128 and a maximum value of 127 ");
+        "\t byte: The byte data type is an 8-bit signed two's "
+        + "complement integer. It has a minimum value of -128 and a maximum value of 127 ");
     System.out.println(
-        "\t short: The short data type is a 16-bit signed two's complement integer. It has a minimum value of -32,768 and a maximum value of 32,767 ");
+        "\t short: The short data type is a 16-bit signed two's complement integer. "
+        + "It has a minimum value of -32,768 and a maximum value of 32,767 ");
     System.out.println(
-        "\t int: By default, the int data type is a 32-bit signed two's complement integer, which has a minimum value of -231 and a maximum value of 231-1 ");
+        "\t int: By default, the int data type is a "
+        + "32-bit signed two's complement integer, which has a minimum "
+        + "value of -231 and a maximum value of 231-1 ");
     System.out.println(
-        "\t long: The long data type is a 64-bit two's complement integer. The signed long has a minimum value of -263 and a maximum value of 263-1 ");
+        "\t long: The long data type is a 64-bit two's complement integer. "
+        + "The signed long has a minimum value of -263 and a maximum value of 263-1 ");
     System.out.println(
         "\t float: The float data type is a single-precision 32-bit IEEE 754 floating point ");
     System.out.println(

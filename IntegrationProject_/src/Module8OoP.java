@@ -1,6 +1,13 @@
 
-public class Module8OOP {
+/** This module is about Object Oriented Programming.
+ * @author ramontoya7474
+ *
+ */
+public class Module8OoP {
 
+  /** This gives an example of how Object Oriented Programming works.
+   * 
+   */
   public static void selection25() {
     System.out.println("Object Oriented Programming: ");
     Person person1 = new Person();
