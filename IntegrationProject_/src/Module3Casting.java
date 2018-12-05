@@ -1,9 +1,12 @@
 
-/**
+/** Casting between Data Types.
  * @author ramontoya7474
  *
  */
 public class Module3Casting {
+  /** This class show casting of an int data type to a double data type.
+   * 
+   */
   public static void selection8() {
     int num1 = 9;
     int num2 = 4;

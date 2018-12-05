@@ -1,9 +1,12 @@
 
-/**
+/** Java Data Types.
  * @author ramontoya7474
  *
  */
 public class Module2List {
+  /** This class displays a list of Java Data Types.
+   * 
+   */
   public static void selection1() {
     System.out.println("This is a list and description of Java built-in data types: \n ");
 

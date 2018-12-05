@@ -1,11 +1,14 @@
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-/**
+/** Defines an Array and searches the index of a value.
  * @author ramontoya7474
  *
  */
 public class Module10Array1D {
+  /** This Module has an example of an Array.
+   * It also shows how to sort the Array to find index of a specific value.
+   */
   public static void selection31() {
     int[] value = {3, 5, 10, 1090, 1, 2343};
     int min = value[0];

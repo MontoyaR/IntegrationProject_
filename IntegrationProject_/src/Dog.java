@@ -1,5 +1,5 @@
 
-/**
+/** Dog extends Animal to make use of inheritance. 
  * @author ramontoya7474
  *
  */

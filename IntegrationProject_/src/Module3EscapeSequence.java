@@ -1,9 +1,12 @@
 
-/**
+/** Escape Sequences.
  * @author ramontoya7474
  *
  */
 public class Module3EscapeSequence {
+  /** This class list Escape Sequence used in Java.
+   * 
+   */
   public static void selection12() {
     System.out.println();
     System.out.println("Escape Sequence: \n");

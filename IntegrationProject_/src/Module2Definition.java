@@ -1,9 +1,12 @@
 
-/**
+/** Definitions.
  * @author ramontoya7474
  *
  */
 public class Module2Definition {
+  /** Defines variables and scope.
+   * 
+   */
   public static void selection6() {
     System.out.println("There are several kinds of variables: \n");
     System.out.println("Member variables in a class: \n \t These are called fields.");

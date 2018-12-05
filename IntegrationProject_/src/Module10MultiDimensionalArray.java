@@ -1,5 +1,12 @@
 
+/** Muti-Dimensional Array.
+ * @author Montoya
+ *
+ */
 public class Module10MultiDimensionalArray {
+  /** This module shows how to use a Multi-Dimensional Array with integers or strings.
+   * 
+   */
   public static void selection33() {
     System.out.println("2-Dimensional Integer Array:");
 

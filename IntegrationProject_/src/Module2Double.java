@@ -1,9 +1,12 @@
 
-/**
+/** Double Data Type.
  * @author ramontoya7474
  *
  */
 public class Module2Double {
+  /** Printout of a double data type. 
+   * 
+   */
   public static void selection3() {
     System.out.println("Data Type: [ double ]");
 

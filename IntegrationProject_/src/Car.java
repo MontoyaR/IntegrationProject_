@@ -1,5 +1,5 @@
 
-/**
+/** Extends the Vehichle class.
  * @author ramontoya7474
  *
  */

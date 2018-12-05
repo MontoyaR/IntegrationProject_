@@ -1,9 +1,12 @@
 
-/**
+/** Method Two Concatenate.
  * @author ramontoya7474
  *
  */
 public class Module3MethodTwo {
+  /** Contains a Method that makes use of he .concat.
+   * 
+   */
   public static void selection10() {
     // The .concat string method combines two string variables
     System.out.println("String Method: [ .concat() ] \n");

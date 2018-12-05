@@ -1,10 +1,13 @@
 import java.util.ArrayList;
 
-/**
+/** Enhanced Loop Example.
  * @author ramontoya7474
  *
  */
 public class Module10EnhancedLoop {
+  /** This Module contains an example of an enhanced loop.
+   * The printout is the names of elements.
+   */
   public static void selection32() {
 
     System.out.println("Displays the elements: \n");
@@ -28,6 +31,9 @@ public class Module10EnhancedLoop {
     System.out.println();
   }
 
+  /** This is the enhanced loop method.
+   * 
+   */
   public static void enhancedForLoop() {
     System.out.println("Option 3 [ Enhanced For Loop ] :");
     ArrayList<String> names = new ArrayList<String>();

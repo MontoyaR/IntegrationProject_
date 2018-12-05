@@ -1,5 +1,5 @@
 
-/**
+/** Cat Extends Animal to make use of inheritance.
  * @author ramontoya7474
  *
  */
